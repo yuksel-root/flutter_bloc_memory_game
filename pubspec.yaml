@@ -25,6 +25,7 @@ dependencies:
   #State Management
   flutter_bloc: ^9.1.1
   equatable: ^2.0.7
+  bloc: ^9.0.0
 
   #Database
   firebase_core: ^3.15.1
@@ -36,6 +37,7 @@ dependencies:
   
   #login
   google_sign_in: ^7.1.0
+
 
   
 
